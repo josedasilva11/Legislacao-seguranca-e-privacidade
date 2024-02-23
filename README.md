@@ -1,4 +1,4 @@
-# Legislação, Segurança e Privacidade - José Silva
+# Legislação, Segurança e Privacidade 
 
 Este documento é um compilado de informações importantes sobre legislação, segurança e privacidade em Portugal, abordando temas como direitos pessoais, proteção de dados, cibercrime, direitos de autor e muito mais. Foi criado para servir como recurso educativo e informativo.
 
